@@ -1,50 +1,55 @@
-# 👋 Hi, I'm Marwan Mostafa (@SoReal404)
+<p align="center">
+  <img src="https://github.com/SoReal404/SoReal404/blob/main/banner.png" alt="Marwan Mostafa Banner"/>
+</p>
 
-🎓 17-year-old Machine Learning Engineer in training  
-🎯 Focused on Computer Vision, Deep Learning, and Healthcare AI  
-📍 Based in Cairo, Egypt
+<h1 align="center">Hi, I'm Marwan (aka @SoReal404) 👋</h1>
 
----
-
-## 🧠 What I Do
-
-- 🔍 Computer Vision with CNNs, YOLOv5, and OpenCV  
-- 🧪 Self-Supervised Learning (SimCLR + Embedding Visualization)  
-- 🧬 Healthcare AI (X-ray image classification, stroke prediction)  
-- 🧠 NLP with Transformers, BERT, and multi-label classifiers  
-- 🌐 Full-stack ML Apps (Flask, Streamlit, Tkinter)
+<p align="center">
+  17 y/o Machine Learning Engineer in training <br>
+  💻 Python, PyTorch, YOLO, SimCLR, Flask <br>
+  🧠 Building AI for Computer Vision & Healthcare <br>
+  📍 Cairo, Egypt
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Tools & Tech
 
-**Languages:** Python, Bash, SQL, HTML/CSS  
-**ML/DL Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-**Computer Vision:** OpenCV, YOLOv5, SimCLR, t-SNE  
-**Web Tools:** Flask, Streamlit, REST APIs  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Dev Tools:** Git, GitHub, Google Colab, Jupyter
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧠 [SimCLR Self-Supervised Model](https://github.com/SoReal404/SimCLR-LicensePlate) | Built a SimCLR-based SSL model to learn visual embeddings from unlabeled license plate images. | PyTorch, torchvision, t-SNE |
-| 🔍 [YOLOv5 Object Detector](https://github.com/SoReal404/license-plate-detection) | Trained YOLOv5 for object detection on custom images. Clean code, augmentation pipeline, training loop. | YOLOv5, PyTorch, OpenCV |
-| 🧬 [Extrovert vs Introvert Classifier](https://github.com/SoReal404/Predict-Introverts-vs-Extroverts) | Ranked #991 in Omdena's Kaggle challenge. Built a neural net to classify based on personality features. | Scikit-learn, PyTorch |
-| 🖥️ [Arabic Sign Language Classifier](https://github.com/SoReal404/Arabic-Sign-Language) | CNN classifier trained on 30-class Arabic sign images using custom CNN and image preprocessing pipeline. | PyTorch, TorchVision |
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 
 ---
 
-## 🌍 Connect With Me
+## 📌 Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-mostafa-712192212)
-- 📊 [Kaggle](https://www.kaggle.com/marwanmostafa222012)
-- 🧠 [Analysis Geek App](https://analysisgeek.online)
-- 📧 marwan.d.2008@gmail.com
+| Project | Description |
+|--------|-------------|
+| [`Arabic-Sign-Language`](https://github.com/SoReal404/Arabic-Sign-Language) | CNN trained on 30-class Arabic signs using PyTorch. |
+| [`SimCLR-LicensePlate`](https://github.com/SoReal404/SimCLR-LicensePlate) | SimCLR-based self-supervised model for vision embeddings. |
+| [`license-plate-detection`](https://github.com/SoReal404/license-plate-detection) | YOLOv5 object detection for license plates (CV focus). |
+| [`Predict-Introverts-vs-Extroverts`](https://github.com/SoReal404/Predict-Introverts-vs-Extroverts) | Ranked #991 in Kaggle competition for personality prediction. |
 
 ---
 
-📌 *Open to freelance projects, internships, or remote ML roles.*
+## 🏆 GitHub Stats & Snake
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoReal404&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoReal404&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/SoReal404/SoReal404/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: marwan.d.2008@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-mostafa-712192212)  
+- 📊 [Kaggle](https://www.kaggle.com/marwanmostafa222012)  
+- 🌐 [Analysis Geek](https://analysisgeek.online)
