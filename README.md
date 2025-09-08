@@ -27,10 +27,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [`Arabic-Sign-Language`](https://github.com/SoReal404/Arabic-Sign-Language) | CNN trained on 30-class Arabic signs using PyTorch. |
-| [`SimCLR-LicensePlate`](https://github.com/SoReal404/SimCLR-LicensePlate) | SimCLR-based self-supervised model for vision embeddings. |
-| [`license-plate-detection`](https://github.com/SoReal404/license-plate-detection) | YOLOv5 object detection for license plates (CV focus). |
-| [`Predict-Introverts-vs-Extroverts`](https://github.com/SoReal404/Predict-Introverts-vs-Extroverts) | Ranked #991 in Kaggle competition for personality prediction. |
+| [`Arabic-Sign-Language`]([https://github.com/SoReal404/Arabic-Sign-Language](https://github.com/SoReal404/Arabic-Realtime-Sign-Detection)) | CNN trained on 30-class Arabic signs using PyTorch. |
+| [`Mediapipe-interaction`](https://github.com/SoReal404/Mediapipe-With-Minecraft-interaction) | Mediapipe-With-Minecraft-interaction. |
+| [`Youtube-Videos-Recommendation`](https://github.com/SoReal404/Youtube-Videos-Recommendation) |Youtube-Videos-Recommendation |
+| [` Pushups-correction-AI-Model`](https://github.com/SoReal404/Pushups-correction-AI-Model)) | Pushups-correction-AI-Model |
 
 ---
 
