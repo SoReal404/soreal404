@@ -27,10 +27,12 @@
 
 | Project | Description |
 |--------|-------------|
-| [`Arabic-Sign-Language`]([https://github.com/SoReal404/Arabic-Sign-Language](https://github.com/SoReal404/Arabic-Realtime-Sign-Detection)) | CNN trained on 30-class Arabic signs using PyTorch. |
+| [`Arabic-Sign-Language`](https://github.com/SoReal404/Arabic-Sign-Language](https://github.com/SoReal404/Arabic-Realtime-Sign-Detection)) | CNN trained on 30-class Arabic signs using PyTorch. |
 | [`Mediapipe-interaction`](https://github.com/SoReal404/Mediapipe-With-Minecraft-interaction) | Mediapipe-With-Minecraft-interaction. |
 | [`Youtube-Videos-Recommendation`](https://github.com/SoReal404/Youtube-Videos-Recommendation) |Youtube-Videos-Recommendation |
 | [` Pushups-correction-AI-Model`](https://github.com/SoReal404/Pushups-correction-AI-Model)) | Pushups-correction-AI-Model |
+| [` Chess-Champion-Predictor`](https://github.com/SoReal404/Chess-Champion-Predictor)) | Chess-Champion-Predictor |
+
 
 ---
 
