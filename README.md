@@ -54,4 +54,4 @@
 - 📧 Email: marwan.d.2008@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwan-mostafa-712192212)  
 - 📊 [Kaggle](https://www.kaggle.com/marwanmostafa222012)  
-- 🌐 [Analysis Geek](https://analysisgeek.online)
+- 🌐 [My personal website](https://marwanmostafa.vercel.app/)
